@@ -1,4 +1,4 @@
-# Chapter 1: Variables + Simple Data Types
+# Chapter 2: Variables + Simple Data Types
 
 ### New things
 - rstrip(), lstrip(), strip()
