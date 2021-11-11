@@ -1,0 +1,1 @@
+* Exercises for:  **Python Crash Course: A Hands-On, Project-Based Introduction To Programming**
